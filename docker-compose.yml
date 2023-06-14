@@ -1,0 +1,16 @@
+
+services:
+  front:
+    build: ./frontend
+    volumes:
+      - /Users/ronniehuggins/Desktop/Code/WebDev/Personal/ReactWebsite/backend
+      - /app/node_modules
+    ports:
+      - "3000:3000"
+  back:
+    build: ./backend
+    volumes:
+      - /Users/ronniehuggins/Desktop/Code/WebDev/Personal/ReactWebsite/frontend
+      - /app/node_modules
+    ports:
+      - "5000:5000"

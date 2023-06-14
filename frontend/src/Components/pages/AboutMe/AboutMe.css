@@ -1,0 +1,30 @@
+.about-me{
+    background-image: linear-gradient(to bottom, #382933,#3B5249 );
+}
+.Arsiem{
+
+}
+.Arsiem-Position{
+    color: white;
+}
+.Arsiem-Time{
+    color: white;
+}
+.Arsiem-work{
+    color: white;
+}
+.USAF{
+    color: white;
+}
+.USAF-Position-Link{
+    color: white;
+}
+.USAF-Position-Link:hover{
+    color: turquoise;
+}
+.USAF-Time{
+    color: white;
+}
+.USAF-work{
+    color: white;
+}

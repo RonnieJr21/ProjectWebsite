@@ -1,0 +1,17 @@
+.post-content{
+    display: inline-block;
+    min-width: max-content;
+    max-width: 500px;
+
+
+}
+.post-content-card{
+
+    min-width: max-content;
+    max-width: 700px;
+    margin: 5px;
+    border-width: 3px;
+    border-color: #519872;
+    border-style: inset;
+}
+

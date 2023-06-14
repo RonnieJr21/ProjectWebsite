@@ -1,0 +1,15 @@
+
+.projects{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    background-image: linear-gradient(to bottom, #382933,#3B5249 );
+    height: 1000px;
+    width: 100%;
+}
+
+button{
+    margin: 5px;
+    height: 40px;
+    width: 100px;
+}

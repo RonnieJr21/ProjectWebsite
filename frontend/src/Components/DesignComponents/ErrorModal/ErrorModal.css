@@ -1,0 +1,59 @@
+
+.modal{
+    background-image: linear-gradient(to bottom, #382933,#3B5249 );
+    position: fixed;
+}
+
+.backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.75);
+}
+
+.modal {
+    position: fixed;
+    top: 30vh;
+    left: 10%;
+    width: 75%;
+    z-index: 100;
+    overflow: hidden;
+}
+
+.modal-title-container {
+
+
+    margin: 0 0 auto 0;
+}
+
+.modal-title {
+    margin: 0;
+    color: white;
+}
+
+.modal-message {
+    margin: 0;
+    padding: 5px;
+    color: white;
+}
+
+.modal-actions {
+    padding: 1rem;
+    display: flex;
+    justify-content: flex-end;
+
+
+}
+.modal-button{
+    min-width: max-content ;
+    color: crimson;
+}
+.modal-button:hover{
+    color: #519872;
+}
+
+
+

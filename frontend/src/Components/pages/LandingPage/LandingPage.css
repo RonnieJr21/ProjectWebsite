@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.App{
+    background-image: linear-gradient(to bottom, #382933,#3B5249 );
+}
+
+
+.filler{
+    height: 120px;
+    width: 100%;
+}
+
+.top-div{
+    top: 600px;
+    height: 400px;
+    width: 100%;
+}
+
+.middle-div{
+    height: 400px;
+    width: 100%;
+}
+.bottom-div{
+    height: 400px;
+    width: 100%;
+}
+
+.name{
+    font-family: "Trebuchet MS" ;
+    margin-top: 5px;
+    color: white;
+}
+
+.title{
+    font-family: "Trebuchet MS" ;
+    margin-top: 10px;
+    color: white;
+}
+.ufo{
+    display: flex;
+    margin: 0 70% 0 30%;
+}
+.astronaut{
+    height: 300px;
+    bottom: 200px;
+}

@@ -1,0 +1,109 @@
+.avatar-img-form{
+    margin: 5px;
+    width: 100px;
+    display: block;
+    justify-content: left;
+        /*border-width: 3px;*/
+        /*border-style: solid;*/
+        /*border-color: gold;*/
+
+
+}
+/*.form-content form-input{*/
+
+/*    display:block;*/
+/*    align-content: center;*/
+/*    justify-content: center;*/
+/*    max-width: 800px;*/
+/*    min-width: max-content;*/
+/*    height: 300px;*/
+/*    border-width: 3px;*/
+/*    border-style: solid;*/
+/*    border-color: gold;*/
+/*}*/
+
+.topic{
+    width: max-content;
+    display: inline-block;
+    padding: 5px;
+    /*border-width: 3px;*/
+    /*border-style: solid;*/
+    /*border-color: gold;*/
+}
+
+.tag{
+
+    width: max-content;
+    padding: 5px;
+    display: inline-block;
+    /*border-width: 3px;*/
+    /*border-style: solid;*/
+    /*border-color: red;*/
+}
+
+.message{
+    display: inline-block;
+    width: max-content;
+    justify-content: center;
+    /*border-width: 3px;*/
+    /*border-style: solid;*/
+    /*border-color: blueviolet;*/
+}
+
+.topic-label{
+    padding: 5px;
+    color: #519872;
+    display: inline-block;
+}
+
+.tag-label{
+    padding: 5px;
+    display: inline-block;
+    color: #519872;
+}
+
+.message-label{
+    display: inline-block;
+    padding: 5px;
+    color: #519872;
+}
+
+.topic-input{
+    width: 150px;
+    height: 25px;
+    border-width: 3px;
+    border-style: inset;
+    border-color: #519872;
+}
+
+.tag-input{
+    width: 150px;
+    height: 25px;
+    border-width: 3px;
+    border-style: inset;
+    border-color: #519872;
+
+}
+
+.message-input{
+    padding: 2px;
+    min-width: 400px;
+    min-height: 100px;
+    max-width: max-content;
+    height: 40px;
+
+    border-width: 3px;
+    border-style: inset;
+    border-color: #519872;
+}
+
+.form-content{
+    display: inline-flex;
+    width: 700px;
+    min-height: max-content;
+    /*border-width: 3px;*/
+    /*border-style: solid;*/
+    /*border-color: gold;*/
+
+}
+

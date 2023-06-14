@@ -1,0 +1,113 @@
+.user-signup{
+    display: inline-flex;
+    height: 400px;
+    width: 600px;
+    margin: auto;
+}
+.signup-input{
+    /*border: gold;*/
+    /*border-width: 4px;*/
+    /*border-style: solid;*/
+    width: 500px;
+}
+.username{
+
+    height: 80px;
+    width: 500px;
+    /*border: black;*/
+    /*border-width: 3px;*/
+    /*border-style: solid;*/
+    display: inline-flex;}
+.username-label{
+    margin: auto;
+    width: 100px;
+    /*border: red;*/
+    /*border-width: 2px;*/
+    /*border-style: solid;*/
+    font-size: x-large;
+    color: #519872;
+}
+.username-input{
+    margin: auto;
+    width: 300px;
+    height: 40px;
+    /*border: turquoise;*/
+    /*border-width: 2px;*/
+    /*border-style: solid;*/
+}
+.email{
+    display: inline-flex;
+    height: 80px;
+    width: 500px;
+    /*border: black;*/
+    /*border-width: 3px;*/
+    /*border-style: solid;*/
+}
+.email-label{
+    margin: auto;
+    width: 100px;
+    /*border: red;*/
+    /*border-width: 2px;*/
+    /*border-style: solid;*/
+    font-size: x-large;
+    color: #519872;
+}
+.email-input{
+    margin: auto;
+    width: 300px;
+    height: 40px;
+    /*border: turquoise;*/
+    /*border-width: 2px;*/
+    /*border-style: solid;*/
+}
+.password{
+    display: inline-flex;
+    height: 80px;
+    width: 500px;
+    /*border: black;*/
+    /*border-width: 3px;*/
+    /*border-style: solid;*/
+}
+.password-label{
+    margin: auto;
+    width: 100px;
+    /*border: red;*/
+    /*border-width: 2px;*/
+    /*border-style: solid;*/
+    font-size: x-large;
+    color: #519872;
+}
+.password-input{
+    margin: auto;
+    width: 300px;
+    height: 40px;
+    /*border: turquoise;*/
+    /*border-width: 2px;*/
+    /*border-style: solid;*/
+}
+.age{
+
+    display: inline-flex;
+    height: 80px;
+    width: 500px;
+    /*border: black;*/
+    /*border-width: 3px;*/
+    /*border-style: solid;*/
+}
+.age-label{
+    margin: auto;
+    width: 100px;
+    /*border: red;*/
+    /*border-width: 2px;*/
+    /*border-style: solid;*/
+    font-size: x-large;
+    color: #519872;
+}
+.age-input{
+    margin: auto;
+    width: 300px;
+    height: 40px;
+    /*border: turquoise;*/
+    /*border-width: 2px;*/
+    /*border-style: solid;*/
+}
